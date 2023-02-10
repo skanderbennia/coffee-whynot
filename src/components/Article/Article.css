@@ -1,0 +1,22 @@
+.article {
+  position: relative;
+  background-color: rgba(47, 47, 47, 0.164);
+  padding-bottom: 20px;
+  border: 1px solid white;
+  box-shadow: 1px 1px 5px 2px yellow;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 6px;
+}
+
+.article h3 {
+  text-align: center;
+  color: yellow;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.article img {
+  border-bottom: 1px solid yellow;
+}
