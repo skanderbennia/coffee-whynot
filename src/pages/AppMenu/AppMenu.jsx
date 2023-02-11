@@ -242,6 +242,10 @@ const listCategory = [
       {
         title: "Agneaux à la gargoulette",
         prix: 40
+      },
+      {
+        title: "Garnitures aux choix",
+        ingrediant:"aa, bbbbbbbbbb, cccccccccc"
       }
     ]
   },
