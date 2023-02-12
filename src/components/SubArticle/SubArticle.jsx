@@ -9,7 +9,7 @@ function SubArticle({ title, ingrediants, prix }) {
       </ul>
       <span>
         {prix}
-        <sup>DT</sup>
+        
       </span>
     </div>
   );

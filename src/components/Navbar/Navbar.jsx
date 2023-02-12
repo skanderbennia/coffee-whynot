@@ -7,8 +7,8 @@ function Navbar() {
       <div className="space"></div>
       <img src={logoLink} alt="logo" />
       <div className="contact">
-        <h2>Contactez-nous sur</h2>
-        <h3>55 09 20 20</h3>
+        <h2>My Number</h2>
+        <h3>96 857 094</h3>
       </div>
     </div>
   );
